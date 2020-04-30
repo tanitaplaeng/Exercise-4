@@ -14,33 +14,33 @@ body {
     width: 50%;
 }
 
-.box-1 { 
-    padding: 25px;
+.box { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one { 
     background-color: #f44336;
 }
 
-.box-2 {
-    padding: 25px;
+.two {
     background-color: #FF9800;
 }
 
-.box-3 { 
-    padding: 25px;
+.three {
     background-color: #FFEB3B;
 }
 
-.box-4 { 
-    padding: 25px;
+.four { 
     background-color: #8BC34A;
 }
 
-.box-5 { 
-    padding: 25px;
+.five { 
     background-color: #2196F3;
 }
 
-.box-6 {
-    padding: 25px;
+.six {
     background-color: #9C27B0;
 }
 
